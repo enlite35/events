@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733593717040",
+    "firebase_url": "https://myschedule-188c8.firebaseio.com",
+    "project_id": "myschedule-188c8",
+    "storage_bucket": "myschedule-188c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733593717040:android:423b5d6c1e6672dea3e0f5",
+        "android_client_info": {
+          "package_name": "ru.vologda.myfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733593717040-fumqm6asjqi91sg25994nm8u5hu428md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.vologda.myfirestore",
+            "certificate_hash": "717db87cc0d8aff0114513f9528d290aec9bba0d"
+          }
+        },
+        {
+          "client_id": "733593717040-cotrpkl0mvafh6ab8ie1ilhvhk3d3cgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8M2TGvjbTRSaoNxUDhDGQwk5L_73umk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733593717040-cotrpkl0mvafh6ab8ie1ilhvhk3d3cgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

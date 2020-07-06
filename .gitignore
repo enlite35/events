@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/myfirestore/build/
+/myfirestore/build/intermediates/javac/debug/classes/

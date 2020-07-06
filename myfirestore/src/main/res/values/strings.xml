@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Календарь событий</string>
+    <string name="enter_msg">Для входа в приложение, введите ваш адрес электронной почты и пароль</string>
+</resources>
